@@ -1,3 +1,2 @@
 # history_of_handwash
-wkdqlwkdmq
-wkdm
+Small project to practice tidyVerse skills
